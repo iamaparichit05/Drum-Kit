@@ -1,3 +1,4 @@
+// Javascript File
 var numberofDrumButtons=document.querySelectorAll(".drum").length;
 for(var i=0; i<numberofDrumButtons; i++)
 {
